@@ -28,8 +28,8 @@
         display: flex;
         align-items: center;
     
-        &:hover &__icon,
-        &:focus &__icon,
+        &:hover .contact-header__icon,
+        &:focus .contact-header__icon,
         &:hover .contact-link,
         &:focus .contact-link {
             fill: var(--brand-color);

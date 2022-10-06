@@ -30,8 +30,8 @@
     
         &:hover .contact-header__icon,
         &:focus .contact-header__icon,
-        &:hover .contact-link,
-        &:focus .contact-link {
+        &:hover .contact-header__link,
+        &:focus .contact-header__link {
             fill: var(--brand-color);
             color: var(--brand-color);
         }
